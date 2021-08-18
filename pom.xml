@@ -12,7 +12,7 @@
     <artifactId>spring-data-jpa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-data-jpa</name>
-    <description>Excercise project for spring-data-jpa use.</description>
+    <description>Exercise project for spring-data-jpa use.</description>
     <properties>
         <java.version>11</java.version>
     </properties>
